@@ -1,0 +1,17 @@
+asset,window,max_drawdown_pct
+A_shares,1999,-65.4321
+A_shares,2008,-65.4321
+A_shares,2019,-18.5429
+A_shares,BASELINE_MEAN,-47.8755
+SP500,1999,-41.7971
+SP500,2008,-38.4877
+SP500,2019,-19.4503
+SP500,BASELINE_MEAN,-30.1268
+Beijing_Housing,1999,-9.1889
+Beijing_Housing,2008,0.0000
+Beijing_Housing,2019,-21.7943
+Beijing_Housing,BASELINE_MEAN,-3.7098
+Gold,1999,-4.8780
+Gold,2008,-35.2163
+Gold,2019,-3.6881
+Gold,BASELINE_MEAN,-22.2098

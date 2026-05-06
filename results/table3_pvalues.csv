@@ -1,0 +1,5 @@
+asset,n_treated,n_control,treated_mean_pct,control_mean_pct,diff_pp,t_statistic,t_pvalue,mw_u_statistic,mw_pvalue,bootstrap_pvalue
+A_shares,2,18,0.0952,5.9144,-5.8192,-1.2251,0.4215,9.0000,0.3158,0.1013
+SP500,2,18,1.5724,6.6598,-5.0873,-1.0756,0.4625,9.0000,0.3158,0.1714
+Beijing_Housing,2,14,13.4575,14.3609,-0.9034,-0.3682,0.7632,10.0000,0.6000,0.7100
+Gold,2,18,7.9967,8.0551,-0.0584,-0.0145,0.9904,21.0000,0.7579,0.9889
