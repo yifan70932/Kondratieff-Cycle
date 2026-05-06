@@ -1,6 +1,6 @@
 # Kondratieff Cycle: Quantitative Empirical Test
 
-A reproducible quantitative test of the Chinese investment slogan **"人生发财靠康波"** (*"wealth comes from the Kondratieff wave"*), popularized by economist Zhou Jintao (周金涛, 1972–2016). This repository contains the data, code, and reproducible results for the **Myth Buster #02** article.
+A reproducible quantitative test of the Chinese investment slogan **"人生发财靠康波"** (*"wealth comes from the Kondratieff wave"*), popularized by economist Zhou Jintao (周金涛, 1972–2016). This repository contains the data, code, and reproducible results for the **Myth Buster** article.
 
 > **Companion article:** [Does Wealth Really Follow the Kondratieff Cycle? — A Five-Test Empirical Investigation](https://yifan70932.github.io/myth-busters/02-kangbo) *(replace with your actual hosted URL)*
 
